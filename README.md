@@ -29,6 +29,10 @@ Pour utiliser ou déployer ce projet, vous aurez besoin de :
    ```bash
    git clone https://github.com/OssyElOuazdi/RisqueDeContrepartie.git
    cd RisqueDeContrepartie
+2. Lancez l'interface :
+   ```python
+   streamlit run Interface.py
+   ```
 
 ## Déploiement
 
